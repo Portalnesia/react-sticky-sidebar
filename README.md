@@ -4,7 +4,7 @@ React Component for sticky sidebar
 
 [![react-sticky-sidebar ](example/example.gif)](https://portalnesia.com)
 
-## Instalation ##
+## Installation ##
 
 ```npm install @portalnesia/react-sticky-sidebar```
 

@@ -1,0 +1,41 @@
+{
+  "name": "react-sticky-sidebar",
+  "version": "1.0.0",
+  "description": "React Component for sticky sidebar",
+  "main": "lib/sidebar.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "jquery": "^3.5.1"
+  },
+  "devDependencies": {
+    "@types/react": "^16.0.16",
+    "@types/react-dom": "^16.0.5",
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0",
+    "typescript": "^3.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://portalnesia.com",
+  "keywords": [
+    "react",
+    "sidebar",
+    "sticky",
+    "auto",
+    "dynamic",
+    "component"
+  ],
+  "author": "Putu Aditya",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Portalnesia/react-sticky-sidebar.git"
+  },
+  "publishConfig": { 
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "types": "lib/sidebar.d.ts",
+  "license": "MIT"
+}

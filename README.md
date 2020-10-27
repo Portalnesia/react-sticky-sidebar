@@ -2,7 +2,7 @@ react-sticky-sidebar
 ================
 React Component for sticky sidebar
 
-[![react-sticky-sidebar ](https://content.portalnesia.com/others/react-sticky-sidebar.gif)](https://portalnesia.com)
+[![react-sticky-sidebar ](example/example.gif)](https://portalnesia.com)
 
 ## Instalation ##
 

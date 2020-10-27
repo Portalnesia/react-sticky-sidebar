@@ -40,5 +40,5 @@ export type SidebarProps={
  * Example : Any pages in [Portalnesia Chord](https://portalnesia.com/chord)
  * 
  */
-const Sidebar: React.FunctionComponent<SidebarProps>
+declare const Sidebar: React.FunctionComponent<SidebarProps>
 export default Sidebar

@@ -6,6 +6,7 @@ React Component for sticky sidebar
 
 ## Instalation ##
 
+```npm install @portalnesia/react-sticky-sidebar```
 
 ## Usage ##
 

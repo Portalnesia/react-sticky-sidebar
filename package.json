@@ -1,6 +1,6 @@
 {
-  "name": "react-sticky-sidebar",
-  "version": "1.0.0",
+  "name": "@portalnesia/react-sticky-sidebar",
+  "version": "1.0.1",
   "description": "React Component for sticky sidebar",
   "main": "lib/sidebar.js",
   "directories": {
